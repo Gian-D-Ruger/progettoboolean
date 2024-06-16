@@ -1,0 +1,62 @@
+body{
+background-image: url(background.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+color: white; 
+}
+
+.container {
+    display: block;
+    text-align: center;
+}
+
+.container img {
+    width: 100px;
+}
+.corpo{
+    padding:3%;
+    margin-top: 5%;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 15%;
+    border-radius: 10px;   
+    background-color: rgba(0, 0, 0, 0.7);    
+}
+
+
+#striscia{
+    background-color:  rgb(3, 232, 3);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+header, nav{
+    text-align: center;
+    color: rgb(3, 232, 3);
+}
+
+span{
+    display: inline-block;
+}
+
+h2{
+    margin-bottom: 0%;
+}
+#orange{
+    border: 10px solid orange;
+    width: 60%;
+    border-radius: 5px;
+}
+
+#green{
+    border: 10px solid  rgb(3, 232, 3);
+    width: 90%;
+    border-radius: 5px;
+}
+
+#red{
+    border: 10px solid  red;
+    width: 30%;
+    border-radius: 5px;
+}
